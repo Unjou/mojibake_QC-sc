@@ -46,31 +46,31 @@ Visual novel localization frequently encounters issues such as lost line markers
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 Smart Syntax Isolation</h3>
+      <h3> Smart Syntax Isolation</h3>
       <p>Separates character dialogue from underlying KAG engine commands (such as <code>@bg storage</code>, <code>*scene</code>, and macro tags like <code>[name]</code>), safeguarding game engine syntax against accidental corruption.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📏 Line Length & Overflow Guard</h3>
+      <h3> Line Length & Overflow Guard</h3>
       <p>Calculates half-width character thresholds in real time (e.g., 42/64 character limits) to prevent translated text from overflowing or getting clipped in the game window.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🇯🇵 JP Leftover & Untranslated Hunter</h3>
+      <h3> JP Leftover & Untranslated Hunter</h3>
       <p>Automatically flags lingering Kanji, Hiragana, or Katakana characters that were missed during translation, as well as blank lines or skipped dialogue segments.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🖼️ In-Engine Dialogue Previewer</h3>
+      <h3> In-Engine Dialogue Previewer</h3>
       <p>Instant live preview panel displaying exactly how translated sentences will appear inside the visual novel message box and subtitle window.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>👥 Pronoun & Register Consistency</h3>
+      <h3> Pronoun & Register Consistency</h3>
       <p>Scans for mismatched pronouns (he/she/they) and stylistic register anomalies to ensure natural dialogue tone fitting each character's established persona.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔒 Browser-Only Client Workspace</h3>
+      <h3> Browser-Only Client Workspace</h3>
       <p>Complete script privacy. Your translation files are never uploaded to remote third-party servers; all parsing and QA checks execute locally in the browser.</p>
     </td>
   </tr>
