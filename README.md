@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/logo.svg" alt="unred Logo" width="260" />
+  <img src="docs/assets/logo.png" alt="unred Logo" width="260" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/assets/banner.png" alt="unred Workbench Showcase Banner" width="100%" />
+  <img src="docs/assets/banner.jpg" alt="unred Workbench Showcase Banner" width="100%" />
 </p>
 
 ---
